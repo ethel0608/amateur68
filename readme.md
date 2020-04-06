@@ -1,4 +1,4 @@
 # Hello
 # Everyone
-# I'm new in GitHub
+# I am new in GitHub
 # Thank you
